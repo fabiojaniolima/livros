@@ -2,7 +2,7 @@
 
 ![Logo TI na Rede](ti-na-rede.png)
 
-Alguns dos títulos publicados pelo projeto [TI na Rede](http://www.tinarede.com.br) estão disponíveis gratuitamente em formato **EPUB** e **PDF**.
+Alguns dos títulos publicados pelo projeto [TI na Rede](http://www.tinarede.com.br) estão disponíveis gratuitamente em formato **Online** e **PDF**.
 
 Para download da versão PDF (com maior riqueza visual), favor acessar o site do projeto: http://www.tinarede.com.br
 
@@ -10,7 +10,7 @@ Para download da versão PDF (com maior riqueza visual), favor acessar o site do
 
 Segue lista de títulos publicados por mim:
 
-  - Linux Essencial - Instalando a distribuição Debian [[PDF]](http://tinarede.com.br/storage/obras/Linux_02_-_Instalando_a_distribuicao_Debian.pdf) [[EPUB]](https://fabiojaniolima.gitbooks.io/linux-essencial-instalando-a-distribuicao-debian/content)
+  - Linux Essencial - Instalando a distribuição Debian [[Online]](https://fabiojaniolima.gitbooks.io/linux-essencial-instalando-a-distribuicao-debian/content) [[PDF]](http://tinarede.com.br/storage/obras/Linux_02_-_Instalando_a_distribuicao_Debian.pdf)
   - Linux Essencial - Por trás da interface gráfica (sendo transcrito)
 
 ## Licença
