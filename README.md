@@ -12,6 +12,7 @@ Segue lista de títulos publicados por mim:
 
   - Linux Essencial - Instalando a distribuição Debian [[Online]](https://fabiojaniolima.gitbooks.io/linux-essencial-instalando-a-distribuicao-debian/content) [[PDF]](http://tinarede.com.br/storage/obras/Linux_02_-_Instalando_a_distribuicao_Debian.pdf)
   - Linux Essencial - Por trás da interface gráfica [[Online]](https://fabiojaniolima.gitbooks.io/linux-essencial-por-tras-da-interface-grafica/content) [[PDF]](http://www.tinarede.com.br/storage/obras/Linux_01_-_Por_tras_da_interface_grafica.pdf)
+  - Banco de dados - Modelagem de dados [Online - *sendo transcrito*] [[PDF]](http://tinarede.com.br/storage/obras/banco_de_dados-modelagem_de_dados.pdf)
 
 ## Licença
 
