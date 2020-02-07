@@ -17,9 +17,9 @@ Os livros listados abaixo são de minha autoria e estão disponíveis para acess
 
 ## Artigos relacionados
 
-Este espaço será utilizado para listar qualquer tipo de material complementar que possua relação com assuntos abordados nos livros listados neste repositório.
+Este espaço será utilizado para listar qualquer tipo de material complementar que possua algum nível relação com assuntos abordados nos livros listados neste repositório.
 
-Node.js
+**Node.js**
  - [JavaScript assíncrono: callbacks, promises e async functions](https://medium.com/@alcidesqueiroz/javascript-ass%C3%ADncrono-callbacks-promises-e-async-functions-9191b8272298)
  - [NVM - Gerencie múltiplas instalações do Node.js](https://medium.com/@fabiojanio/nvm-gerencie-múltiplas-instalações-do-node-js-6fcd0f13aaf7)
  - [Node.js + Express + ES6 + ESLint + Prettier + Sucrase de forma simples e rápida](https://medium.com/@fabiojanio/node-js-express-es6-eslint-sucrase-de-forma-simples-e-rápida-8467fcfae728)
