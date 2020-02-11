@@ -24,3 +24,4 @@ Este espaço será utilizado para listar qualquer tipo de material complementar 
  - [NVM - Gerencie múltiplas instalações do Node.js](https://medium.com/@fabiojanio/nvm-gerencie-múltiplas-instalações-do-node-js-6fcd0f13aaf7)
  - [Node.js + Express + ES6 + ESLint + Prettier + Sucrase de forma simples e rápida](https://medium.com/@fabiojanio/node-js-express-es6-eslint-sucrase-de-forma-simples-e-rápida-8467fcfae728)
  - [Evitando a serialização de propriedades dinâmicas de objetos](http://cangaceirojavascript.com.br/evitando-serializacao-propriedades-dinamicas-objetos/)
+ - [NodeJS: Express, Cors, Consign (autoload), BodyParser e Compression da teoria à prática](https://medium.com/@fabiojanio/nodejs-express-cors-consign-autoload-bodyparser-e-compression-na-prática-fbfc12e46ff4)
