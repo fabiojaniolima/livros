@@ -16,8 +16,9 @@ Os livros listados abaixo são de minha autoria e estão disponíveis para acess
   - Node.js - Guia prático para iniciantes (*Em desenvolvimento*)
     - [Prefácio (rascunho)](https://www.notion.so/Pref-cio-868160e1b4eb4f8297bc6c4ff8d9d553)
     - [Introdução ao Node.js (rascunho)](https://www.notion.so/Introdu-o-ao-Node-js-40c5745fc5734fb1a9ffbcfe7721eede)
-    - // Capítulo temporariamente privado
+    - [Preparando o ambiente (rascunho)](https://www.notion.so/Preparando-o-ambiente-1f8c3e3ebc574e9e805de2925c42fc98)
     - [Primeiro exemplo prático (rascunho)](https://www.notion.so/Primeiro-exemplo-pr-tico-8525500c021f4c1f800e32a74b19a6dd)
+    - [Gerenciador de pacotes (rascunho)](https://www.notion.so/Gerenciador-de-pacotes-0a77dd6ce48747ecaa23a5ff5e9668c7)
 
 > :warning: Cada livro possui sua própria página de licença.
 
