@@ -19,6 +19,7 @@ Os livros listados abaixo são de minha autoria e estão disponíveis para acess
     - [Preparando o ambiente (rascunho)](https://www.notion.so/Preparando-o-ambiente-1f8c3e3ebc574e9e805de2925c42fc98)
     - [Primeiro exemplo prático (rascunho)](https://www.notion.so/Primeiro-exemplo-pr-tico-8525500c021f4c1f800e32a74b19a6dd)
     - [Gerenciador de pacotes (rascunho)](https://www.notion.so/Gerenciador-de-pacotes-0a77dd6ce48747ecaa23a5ff5e9668c7)
+    - [Começando com Express (rascunho)](https://www.notion.so/Come-ando-com-Express-194bef88bf5a4520af33ff5b16746d63)
     - // Capítulos temporariamente privados (Template Engine, MongoDB com Mongoose, Sequelize, APIs com Express, JWT...)
 
 > :warning: Cada livro possui sua própria página de licença.
