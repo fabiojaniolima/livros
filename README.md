@@ -25,13 +25,17 @@ Os livros listados abaixo são de minha autoria e estão disponíveis para acess
 
 > :warning: Cada livro possui sua própria página de licença.
 
-## Artigos relacionados
+## Artigos e sites relacionados
 
-Este espaço será utilizado para listar qualquer tipo de material complementar que possua algum nível relação com assuntos abordados nos livros listados neste repositório.
+Este espaço será utilizado para listar qualquer tipo de material complementar que possua algum nível de relação com assuntos abordado nos livros apresentados neste repo.
 
-**Node.js**
- - [JavaScript assíncrono: callbacks, promises e async functions](https://medium.com/@alcidesqueiroz/javascript-ass%C3%ADncrono-callbacks-promises-e-async-functions-9191b8272298)
- - [NVM - Gerencie múltiplas instalações do Node.js](https://medium.com/@fabiojanio/nvm-gerencie-múltiplas-instalações-do-node-js-6fcd0f13aaf7)
- - [Node.js + Express + ES6 + ESLint + Prettier + Sucrase de forma simples e rápida](https://medium.com/@fabiojanio/node-js-express-es6-eslint-sucrase-de-forma-simples-e-rápida-8467fcfae728)
- - [Evitando a serialização de propriedades dinâmicas de objetos](http://cangaceirojavascript.com.br/evitando-serializacao-propriedades-dinamicas-objetos/)
- - [NodeJS: Express, Cors, Consign (autoload), BodyParser e Compression da teoria à prática](https://medium.com/@fabiojanio/nodejs-express-cors-consign-autoload-bodyparser-e-compression-na-prática-fbfc12e46ff4)
+### Node.js
+- **Artigos**
+   - [JavaScript assíncrono: callbacks, promises e async functions](https://medium.com/@alcidesqueiroz/javascript-ass%C3%ADncrono-callbacks-promises-e-async-functions-9191b8272298)
+   - [NVM - Gerencie múltiplas instalações do Node.js](https://medium.com/@fabiojanio/nvm-gerencie-múltiplas-instalações-do-node-js-6fcd0f13aaf7)
+   - [Node.js + Express + ES6 + ESLint + Prettier + Sucrase de forma simples e rápida](https://medium.com/@fabiojanio/node-js-express-es6-eslint-sucrase-de-forma-simples-e-rápida-8467fcfae728)
+   - [Evitando a serialização de propriedades dinâmicas de objetos](http://cangaceirojavascript.com.br/evitando-serializacao-propriedades-dinamicas-objetos/)
+   - [NodeJS: Express, Cors, Consign (autoload), BodyParser e Compression da teoria à prática](https://medium.com/@fabiojanio/nodejs-express-cors-consign-autoload-bodyparser-e-compression-na-prática-fbfc12e46ff4)
+- **Sites recomendados**
+  - [JavaScript.Info](https://javascript.info)
+  
