@@ -36,6 +36,7 @@ Este espaço será utilizado para listar qualquer tipo de material complementar 
    - [Node.js + Express + ES6 + ESLint + Prettier + Sucrase de forma simples e rápida](https://medium.com/@fabiojanio/node-js-express-es6-eslint-sucrase-de-forma-simples-e-rápida-8467fcfae728)
    - [Evitando a serialização de propriedades dinâmicas de objetos](http://cangaceirojavascript.com.br/evitando-serializacao-propriedades-dinamicas-objetos/)
    - [NodeJS: Express, Cors, Consign (autoload), BodyParser e Compression da teoria à prática](https://medium.com/@fabiojanio/nodejs-express-cors-consign-autoload-bodyparser-e-compression-na-prática-fbfc12e46ff4)
+   - [10 Awesome Github Repos Every Web Developer Should Know](https://medium.com/better-programming/10-awesome-github-repos-every-web-developer-should-know-15288c8533f1)
 - **Sites recomendados**
   - [JavaScript.Info](https://javascript.info)
-  
+
