@@ -37,6 +37,7 @@ Este espaço será utilizado para listar qualquer tipo de material complementar 
    - [Evitando a serialização de propriedades dinâmicas de objetos](http://cangaceirojavascript.com.br/evitando-serializacao-propriedades-dinamicas-objetos/)
    - [NodeJS: Express, Cors, Consign (autoload), BodyParser e Compression da teoria à prática](https://medium.com/@fabiojanio/nodejs-express-cors-consign-autoload-bodyparser-e-compression-na-prática-fbfc12e46ff4)
    - [10 Awesome Github Repos Every Web Developer Should Know](https://medium.com/better-programming/10-awesome-github-repos-every-web-developer-should-know-15288c8533f1)
+   - [Usando Worker Threads](https://imasters.com.br/front-end/usando-worker-threads-no-node-js)
 - **Sites recomendados**
   - [JavaScript.Info](https://javascript.info)
 
