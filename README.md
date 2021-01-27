@@ -31,6 +31,7 @@ Este espaço será utilizado para listar qualquer tipo de material complementar 
 
 ### Node.js
 - **Artigos**
+   - [Easy profiling for Node.js Applications](https://nodejs.org/en/docs/guides/simple-profiling) 
    - [Na prática: TypeScript + ESLint + Prettier + EditorConfig + Jest, Supertest…](https://link.medium.com/789gxT3G18)
    - [Padrões de projeto em TypeScript](https://refactoring.guru/pt-br/design-patterns/typescript)
    - [JavaScript assíncrono: callbacks, promises e async functions](https://medium.com/@alcidesqueiroz/javascript-ass%C3%ADncrono-callbacks-promises-e-async-functions-9191b8272298)
@@ -42,4 +43,3 @@ Este espaço será utilizado para listar qualquer tipo de material complementar 
    - [Usando Worker Threads](https://imasters.com.br/front-end/usando-worker-threads-no-node-js)
 - **Sites recomendados**
   - [JavaScript.Info](https://javascript.info)
-
