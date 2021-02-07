@@ -25,7 +25,7 @@ Os livros listados abaixo são de minha autoria e estão disponíveis para acess
 
 > :warning: Cada livro possui sua própria página de licença.
 
-## Artigos e sites relacionados
+## Artigos, livros e sites recomendados
 
 Este espaço será utilizado para listar qualquer tipo de material complementar que possua algum nível de relação com assuntos abordado nos livros apresentados neste repo.
 
@@ -41,5 +41,7 @@ Este espaço será utilizado para listar qualquer tipo de material complementar 
    - [NodeJS: Express, Cors, Consign (autoload), BodyParser e Compression da teoria à prática](https://medium.com/@fabiojanio/nodejs-express-cors-consign-autoload-bodyparser-e-compression-na-prática-fbfc12e46ff4)
    - [10 Awesome Github Repos Every Web Developer Should Know](https://medium.com/better-programming/10-awesome-github-repos-every-web-developer-should-know-15288c8533f1)
    - [Usando Worker Threads](https://imasters.com.br/front-end/usando-worker-threads-no-node-js)
-- **Sites recomendados**
+- **Sites**
   - [JavaScript.Info](https://javascript.info)
+- **Livros**
+  - [Construindo APIs testáveis com Node.js](https://leanpub.com/construindo-apis-testaveis-com-nodejs/)
