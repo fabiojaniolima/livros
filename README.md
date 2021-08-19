@@ -6,8 +6,6 @@
   <img src="vakinha.jpg">
 </p>
 
-**Vakinha online: [http://vaka.me/900039](http://vaka.me/900039)**
-
 Os livros listados abaixo são de minha autoria e estão disponíveis para acesso gratuito:
 
   - Linux Essencial - Instalando a distribuição Debian [[Online]](https://fabiojaniolima.gitbooks.io/linux-essencial-instalando-a-distribuicao-debian/content) [[PDF]](https://www.dropbox.com/s/x5tvywklggku6mv/linux-instalando_a_distribuicao_debian.pdf)
