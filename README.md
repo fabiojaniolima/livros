@@ -2,10 +2,6 @@
 
 > Sou apaixonado pelo universo da tecnologia e um profundo admirador da filosofia do software livre. Estou constantemente buscando novas experiências e compartilhando conhecimento em espaços tais como meu [Blog](https://fabiojanio.com), [Medium](http://medium.com/@fabiojanio), [LinkedIn](http://linkedin.com/in/fabiojanio) e outros.
 
-<p align="center">
-  <img src="vakinha.jpg">
-</p>
-
 Os livros listados abaixo são de minha autoria e estão disponíveis para acesso gratuito:
 
   - Linux Essencial - Instalando a distribuição Debian [[Online]](https://fabiojaniolima.gitbooks.io/linux-essencial-instalando-a-distribuicao-debian/content) [[PDF]](https://www.dropbox.com/s/x5tvywklggku6mv/linux-instalando_a_distribuicao_debian.pdf)
