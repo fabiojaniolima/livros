@@ -1,12 +1,12 @@
 # Livros
 
-> Sou apaixonado pelo universo da tecnologia e um profundo admirador da filosofia do software livre. Estou constantemente buscando novas experiências e compartilhando conhecimento em espaços tais como meu [Blog](https://fabiojanio.com), [Medium](http://medium.com/@fabiojanio), [LinkedIn](http://linkedin.com/in/fabiojanio) e outros.
+> Sou apaixonado pelo universo da tecnologia e um profundo admirador da filosofia do software livre. Estou constantemente buscando novas experiências e compartilhando conhecimento em espaços tais como [Medium](http://medium.com/@fabiojanio), [LinkedIn](http://linkedin.com/in/fabiojanio) e outros.
 
 Os livros listados abaixo são de minha autoria e estão disponíveis para acesso gratuito:
 
-  - Linux Essencial - Instalando a distribuição Debian [[Online]](https://fabiojaniolima.gitbooks.io/linux-essencial-instalando-a-distribuicao-debian/content) [[PDF]](https://www.dropbox.com/s/x5tvywklggku6mv/linux-instalando_a_distribuicao_debian.pdf)
-  - Linux Essencial - Por trás da interface gráfica [[Online]](https://fabiojaniolima.gitbooks.io/linux-essencial-por-tras-da-interface-grafica/content) [[PDF]](https://www.dropbox.com/s/xufjcqhfawueybj/linux-por_tras_da_interface_grafica.pdf)
-  - Banco de dados - Modelagem de dados [[Online]](https://fabiojaniolima.gitbooks.io/banco-de-dados-modelagem-de-dados/content) [[PDF]](https://www.dropbox.com/s/3hwdxvrvfx2h10u/banco_de_dados-modelagem_de_dados.pdf)
+  - Linux Essencial - Instalando a distribuição Debian [[Amazon]](https://a.co/d/1vGymqa)
+  - Linux Essencial - Por trás da interface gráfica [[Amazon]](https://a.co/d/5MQ0RId) 
+  - Banco de dados - Modelagem de dados [[Amazon]](https://a.co/d/acaivhg)
   - Node.js - Guia prático para iniciantes (*Em desenvolvimento*)
     - [Prefácio (rascunho)](https://www.notion.so/Pref-cio-868160e1b4eb4f8297bc6c4ff8d9d553)
     - [Introdução ao Node.js (rascunho)](https://www.notion.so/Introdu-o-ao-Node-js-40c5745fc5734fb1a9ffbcfe7721eede)
@@ -17,7 +17,7 @@ Os livros listados abaixo são de minha autoria e estão disponíveis para acess
     - [Template engines (rascunho)](https://www.notion.so/Template-engines-ee463e05b61d49db9ee922c0edac746e)
     - // Capítulos temporariamente privados (Template Engine, MongoDB com Mongoose, Sequelize, APIs com Express, JWT...)
 
-> :warning: Cada livro possui sua própria página de licença.
+> IMPORTANTE: estou trabalhando para prover uma versão gratuita de todas as obras listadas acima (em breve publico aqui).
 
 ## Artigos, livros e sites recomendados
 
