@@ -6,7 +6,7 @@ Os livros listados abaixo são de minha autoria e estão disponíveis para acess
 
   - Linux Essencial - Instalando a distribuição Debian [[Amazon]](https://a.co/d/1vGymqa)
   - Linux Essencial - Por trás da interface gráfica [[Amazon]](https://a.co/d/5MQ0RId) 
-  - Banco de dados - Modelagem de dados [[Amazon]](https://a.co/d/acaivhg)
+  - Banco de dados - Modelagem de dados [[Amazon]](https://a.co/d/acaivhg) (2ª edição em desenvolvimento)
   - Node.js - Guia prático para iniciantes (*Em desenvolvimento*)
     - [Prefácio (rascunho)](https://www.notion.so/Pref-cio-868160e1b4eb4f8297bc6c4ff8d9d553)
     - [Introdução ao Node.js (rascunho)](https://www.notion.so/Introdu-o-ao-Node-js-40c5745fc5734fb1a9ffbcfe7721eede)
