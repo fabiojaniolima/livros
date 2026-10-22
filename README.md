@@ -8,7 +8,7 @@ Este repositório reúne os livros de minha autoria, tanto os já publicados qua
 
 > **Banco de dados - Modelagem de dados: Do modelo conceitual ao SQL (2ª edição)**
 >
-> [Baixar em PDF ou ePUB/Kindle](https://fabiojanio.com/prompts/ebook-banco-de-dados-modelagem-de-dados-ed2.html)
+> [Baixar em PDF ou ePUB/Kindle](https://fabiojanio.com/livros/ebook-banco-de-dados-modelagem-de-dados-ed2.html)
 
 ## 📚 Livros publicados
 
@@ -18,7 +18,7 @@ Sobre os formatos disponíveis:
 - Livros marcados como **ePUB/Kindle** têm um valor simbólico de aquisição (ex.: R$ 6,90), são disponibilizados via Amazon e/ou Hotmart e ajudam a manter este projeto. As versões disponíveis na Amazon têm opção de R$ 0 para assinantes do Kindle Unlimited (Kindle+).
 
 ### Banco de dados
-- **Modelagem de dados: Do modelo conceitual ao SQL (2ª edição)** `NOVO` · [[PDF e ePUB/Kindle]](https://fabiojanio.com/prompts/ebook-banco-de-dados-modelagem-de-dados-ed2.html)
+- **Modelagem de dados: Do modelo conceitual ao SQL (2ª edição)** `NOVO` · [[PDF e ePUB/Kindle]](https://fabiojanio.com/livros/ebook-banco-de-dados-modelagem-de-dados-ed2.html)
 - **Modelagem de dados (1ª edição)** · [[Amazon]](https://a.co/d/acaivhg)
 
 ### Linux Essencial
